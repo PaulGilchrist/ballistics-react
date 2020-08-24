@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/ballistics-react/static/css/main.98d64689.chunk.css",
-    "main.js": "/ballistics-react/static/js/main.6b39d2b3.chunk.js",
-    "main.js.map": "/ballistics-react/static/js/main.6b39d2b3.chunk.js.map",
+    "main.css": "/ballistics-react/static/css/main.15f6a0b0.chunk.css",
+    "main.js": "/ballistics-react/static/js/main.66271878.chunk.js",
+    "main.js.map": "/ballistics-react/static/js/main.66271878.chunk.js.map",
     "runtime-main.js": "/ballistics-react/static/js/runtime-main.94f2f3f2.js",
     "runtime-main.js.map": "/ballistics-react/static/js/runtime-main.94f2f3f2.js.map",
     "static/css/2.94fcc7c3.chunk.css": "/ballistics-react/static/css/2.94fcc7c3.chunk.css",
-    "static/js/2.1060b518.chunk.js": "/ballistics-react/static/js/2.1060b518.chunk.js",
-    "static/js/2.1060b518.chunk.js.map": "/ballistics-react/static/js/2.1060b518.chunk.js.map",
+    "static/js/2.c078b7be.chunk.js": "/ballistics-react/static/js/2.c078b7be.chunk.js",
+    "static/js/2.c078b7be.chunk.js.map": "/ballistics-react/static/js/2.c078b7be.chunk.js.map",
     "index.html": "/ballistics-react/index.html",
-    "precache-manifest.083298ea6c65c998deb1bab2e80e14fe.js": "/ballistics-react/precache-manifest.083298ea6c65c998deb1bab2e80e14fe.js",
+    "precache-manifest.5cd6b6c08383bd818efa295b48f0b78a.js": "/ballistics-react/precache-manifest.5cd6b6c08383bd818efa295b48f0b78a.js",
     "service-worker.js": "/ballistics-react/service-worker.js",
     "static/css/2.94fcc7c3.chunk.css.map": "/ballistics-react/static/css/2.94fcc7c3.chunk.css.map",
-    "static/css/main.98d64689.chunk.css.map": "/ballistics-react/static/css/main.98d64689.chunk.css.map",
-    "static/js/2.1060b518.chunk.js.LICENSE.txt": "/ballistics-react/static/js/2.1060b518.chunk.js.LICENSE.txt",
+    "static/css/main.15f6a0b0.chunk.css.map": "/ballistics-react/static/css/main.15f6a0b0.chunk.css.map",
+    "static/js/2.c078b7be.chunk.js.LICENSE.txt": "/ballistics-react/static/js/2.c078b7be.chunk.js.LICENSE.txt",
     "static/media/font-awesome.min.css": "/ballistics-react/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.94f2f3f2.js",
     "static/css/2.94fcc7c3.chunk.css",
-    "static/js/2.1060b518.chunk.js",
-    "static/css/main.98d64689.chunk.css",
-    "static/js/main.6b39d2b3.chunk.js"
+    "static/js/2.c078b7be.chunk.js",
+    "static/css/main.15f6a0b0.chunk.css",
+    "static/js/main.66271878.chunk.js"
   ]
 }
