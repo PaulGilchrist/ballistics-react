@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4ab0c086d1c0908cc2805796428ed93b",
+    "revision": "ca55eb0ffab243b8ebedf6194eac3089",
     "url": "/ballistics-react/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ballistics-react/static/css/2.94fcc7c3.chunk.css"
   },
   {
-    "revision": "6ed6f0b786f9962f9b11",
+    "revision": "2b8fda381f2e0e30bf0d",
     "url": "/ballistics-react/static/css/main.15f6a0b0.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ballistics-react/static/js/2.55474328.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6ed6f0b786f9962f9b11",
-    "url": "/ballistics-react/static/js/main.e9f7a469.chunk.js"
+    "revision": "2b8fda381f2e0e30bf0d",
+    "url": "/ballistics-react/static/js/main.bf42d27b.chunk.js"
   },
   {
     "revision": "8efb36786ce63f21850e",

@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ballistics-react/static/css/main.15f6a0b0.chunk.css",
-    "main.js": "/ballistics-react/static/js/main.e9f7a469.chunk.js",
-    "main.js.map": "/ballistics-react/static/js/main.e9f7a469.chunk.js.map",
+    "main.js": "/ballistics-react/static/js/main.bf42d27b.chunk.js",
+    "main.js.map": "/ballistics-react/static/js/main.bf42d27b.chunk.js.map",
     "runtime-main.js": "/ballistics-react/static/js/runtime-main.94f2f3f2.js",
     "runtime-main.js.map": "/ballistics-react/static/js/runtime-main.94f2f3f2.js.map",
     "static/css/2.94fcc7c3.chunk.css": "/ballistics-react/static/css/2.94fcc7c3.chunk.css",
     "static/js/2.55474328.chunk.js": "/ballistics-react/static/js/2.55474328.chunk.js",
     "static/js/2.55474328.chunk.js.map": "/ballistics-react/static/js/2.55474328.chunk.js.map",
     "index.html": "/ballistics-react/index.html",
-    "precache-manifest.72254894152b6770e69654a55236acdb.js": "/ballistics-react/precache-manifest.72254894152b6770e69654a55236acdb.js",
+    "precache-manifest.919dcc4c8c006df8d5ec1a4b300d7d68.js": "/ballistics-react/precache-manifest.919dcc4c8c006df8d5ec1a4b300d7d68.js",
     "service-worker.js": "/ballistics-react/service-worker.js",
     "static/css/2.94fcc7c3.chunk.css.map": "/ballistics-react/static/css/2.94fcc7c3.chunk.css.map",
     "static/css/main.15f6a0b0.chunk.css.map": "/ballistics-react/static/css/main.15f6a0b0.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.94fcc7c3.chunk.css",
     "static/js/2.55474328.chunk.js",
     "static/css/main.15f6a0b0.chunk.css",
-    "static/js/main.e9f7a469.chunk.js"
+    "static/js/main.bf42d27b.chunk.js"
   ]
 }
